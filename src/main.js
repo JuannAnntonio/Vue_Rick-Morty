@@ -1,7 +1,8 @@
 import Vue from "vue";
 import App from "./App.vue";
-
 import "bulma";
+
+require("./plugins/fontawesome");
 
 Vue.config.productionTip = false;
 
